@@ -1,0 +1,28 @@
+body{
+    background-image: url(tatortots.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1,h2,h3{
+    text-align: center;
+    color: lightcoral;
+    border:5px dashed lightblue;
+    padding: 10px;
+}
+ul{
+    text-align: center;
+    color:lightblue;
+    border-color:5px dashed lightgreen;
+    padding: 10px;
+}
+p{
+text-align: center;
+color:lightgreen;
+border-color:5px dashed lightcoral;
+padding: 10px;
+}
+div
+{
+    list-style: inside;
+}
